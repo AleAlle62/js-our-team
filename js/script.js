@@ -4,7 +4,7 @@ Ogni membro è caratterizzato dalle seguenti informazioni: nome, ruolo e foto.
 */
 
 //variabili globali 
-let container = document.querySelector('.secondo-blocco')
+const container = document.querySelector('.secondo-blocco')
 
 
 
